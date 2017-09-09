@@ -1,2 +1,0 @@
-def first(a):
-    pass
